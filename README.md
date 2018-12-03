@@ -1,3 +1,5 @@
+<br/>
+<br/>
 # Generative Adversarial Networks
 Neural Networks are universal function approximators. 
 This means given large amount of data and ample number of neurons they can approximate a given function. 
